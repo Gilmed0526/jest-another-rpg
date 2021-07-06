@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Gilmed0526/jest-another-rpg#readme",
   "devDependencies": {
     "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1"
   }
 }
